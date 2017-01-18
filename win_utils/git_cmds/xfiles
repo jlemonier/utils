@@ -1,0 +1,8 @@
+
+echo List git-ignored files
+git ls-files . --ignored --exclude-standard --others
+
+echo
+
+echo List untracked files
+git ls-files . --exclude-standard --others

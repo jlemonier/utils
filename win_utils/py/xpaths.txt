@@ -1,0 +1,6 @@
+Order/Header/OrderMessageID
+Order/Header/OrderNumber
+Order/Header/OrderDateTime
+Order/Header/PaymentTerms
+Order/Header/OrderPaymentMethod
+Order/Header/OrderPaymentTerms/PaymentTerms

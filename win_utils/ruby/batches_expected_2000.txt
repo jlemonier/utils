@@ -1,0 +1,225 @@
+C:\apps\by_customer_test\Extracted_Here\by_customer / C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000
+FRREN2
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/FRREN2/batch_2000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/FRREN2/batch_4000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/FRREN2/batch_4862
+ICAPL1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICAPL1/batch_2000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICAPL1/batch_4000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICAPL1/batch_6000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICAPL1/batch_8000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICAPL1/batch_10000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICAPL1/batch_12000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICAPL1/batch_14000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICAPL1/batch_16000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICAPL1/batch_18000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICAPL1/batch_20000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICAPL1/batch_22000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICAPL1/batch_24000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICAPL1/batch_26000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICAPL1/batch_28000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICAPL1/batch_30000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICAPL1/batch_32000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICAPL1/batch_34000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICAPL1/batch_36000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICAPL1/batch_38000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICAPL1/batch_40000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICAPL1/batch_42000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICAPL1/batch_44000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICAPL1/batch_45921
+ICASC1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICASC1/batch_529
+ICBBW1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICBBW1/batch_2000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICBBW1/batch_4000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICBBW1/batch_6000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICBBW1/batch_6335
+ICBBY1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICBBY1/batch_2000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICBBY1/batch_4000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICBBY1/batch_6000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICBBY1/batch_8000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICBBY1/batch_10000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICBBY1/batch_12000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICBBY1/batch_14000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICBBY1/batch_14009
+ICBEC1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICBEC1/batch_1140
+ICBEC2
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICBEC2/batch_1124
+ICBEC3
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICBEC3/batch_1236
+ICBOC1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICBOC1/batch_133
+ICBSG1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICBSG1/batch_1928
+ICCAR1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCAR1/batch_2000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCAR1/batch_4000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCAR1/batch_6000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCAR1/batch_8000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCAR1/batch_10000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCAR1/batch_12000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCAR1/batch_14000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCAR1/batch_16000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCAR1/batch_18000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCAR1/batch_20000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCAR1/batch_22000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCAR1/batch_23156
+ICCCO1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCCO1/batch_2000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCCO1/batch_4000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCCO1/batch_6000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCCO1/batch_8000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCCO1/batch_10000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCCO1/batch_12000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCCO1/batch_14000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCCO1/batch_16000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCCO1/batch_18000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCCO1/batch_20000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCCO1/batch_22000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCCO1/batch_24000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCCO1/batch_26000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCCO1/batch_28000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCCO1/batch_30000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCCO1/batch_32000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCCO1/batch_32273
+ICCRF1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICCRF1/batch_955
+ICDAF1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICDAF1/batch_1793
+ICDTL1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICDTL1/batch_6
+ICDYS1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICDYS1/batch_2000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICDYS1/batch_4000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICDYS1/batch_4671
+ICENI1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICENI1/batch_2000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICENI1/batch_4000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICENI1/batch_6000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICENI1/batch_8000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICENI1/batch_8080
+ICFER1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICFER1/batch_2000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICFER1/batch_4000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICFER1/batch_6000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICFER1/batch_8000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICFER1/batch_10000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICFER1/batch_12000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICFER1/batch_14000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICFER1/batch_15068
+ICGAP1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICGAP1/batch_2000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICGAP1/batch_4000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICGAP1/batch_6000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICGAP1/batch_6060
+ICHMA1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICHMA1/batch_148
+ICHWG1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICHWG1/batch_1281
+ICJFB1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICJFB1/batch_2000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICJFB1/batch_4000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICJFB1/batch_6000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICJFB1/batch_8000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICJFB1/batch_10000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICJFB1/batch_10826
+ICJNJ1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICJNJ1/batch_1187
+ICLAZ1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICLAZ1/batch_2000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICLAZ1/batch_4000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICLAZ1/batch_6000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICLAZ1/batch_8000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICLAZ1/batch_10000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICLAZ1/batch_12000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICLAZ1/batch_14000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICLAZ1/batch_14295
+ICMFF1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICMFF1/batch_2000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICMFF1/batch_3334
+ICMGL1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICMGL1/batch_408
+ICMUD1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICMUD1/batch_724
+ICMUT1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICMUT1/batch_222
+ICNKE1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICNKE1/batch_191
+ICNKE2
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICNKE2/batch_18
+ICNWG1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICNWG1/batch_2000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICNWG1/batch_4000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICNWG1/batch_6000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICNWG1/batch_8000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICNWG1/batch_9844
+ICOXY1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICOXY1/batch_1
+ICPBI1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICPBI1/batch_1902
+ICRPP1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICRPP1/batch_360
+ICSCB1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICSCB1/batch_327
+ICSCH1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICSCH1/batch_438
+ICSCJ1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICSCJ1/batch_2000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICSCJ1/batch_4000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICSCJ1/batch_6000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICSCJ1/batch_8000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICSCJ1/batch_10000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICSCJ1/batch_12000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICSCJ1/batch_13226
+ICSEB1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICSEB1/batch_2000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICSEB1/batch_4000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICSEB1/batch_5498
+ICSGT1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICSGT1/batch_996
+ICTBS1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICTBS1/batch_2000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICTBS1/batch_3137
+ICTBW1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICTBW1/batch_2000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICTBW1/batch_4000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICTBW1/batch_6000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICTBW1/batch_8000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICTBW1/batch_10000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICTBW1/batch_12000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICTBW1/batch_14000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICTBW1/batch_16000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICTBW1/batch_17382
+ICTRC1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICTRC1/batch_2000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICTRC1/batch_4000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICTRC1/batch_4226
+ICTSP1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICTSP1/batch_2000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICTSP1/batch_2096
+ICVAN1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICVAN1/batch_2000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICVAN1/batch_3139
+ICZHG1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/ICZHG1/batch_10
+SEVAN1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/SEVAN1/batch_630
+USBXT1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/USBXT1/batch_133
+USCNH2
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/USCNH2/batch_14
+WWJNJ1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/WWJNJ1/batch_2000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/WWJNJ1/batch_4000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/WWJNJ1/batch_6000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/WWJNJ1/batch_8000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/WWJNJ1/batch_10000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/WWJNJ1/batch_12000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/WWJNJ1/batch_14000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/WWJNJ1/batch_16000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/WWJNJ1/batch_18000
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/WWJNJ1/batch_19921
+WWPGA1
+Creating: C:\apps\by_customer_test\Extracted_Here\by_customer_batchsize_2000/WWPGA1/batch_97

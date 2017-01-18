@@ -1,0 +1,15 @@
+
+D:\utils>REM https://jira.gtnexus.info/browse/ITOP-6241 
+
+D:\utils>REM https://api.ccu.akamai.com/ccu/v2/docs/ 
+
+D:\utils>REM Requires setting jason.lemonier@gtnexus.com & Cache.Crazy.789 as environment variables. 
+
+D:\utils>REM -k required since we are setting SSL errors. ? 
+
+D:\utils>curl https://api.ccu.akamai.com/ccu/v2/queues/default    -H "Content-Type:application/json" -d '{"type":"cpcode", "objects":["144241","144242"]}' -u jason.lemonier@gtnexus.com:Cache.Crazy.789 
+
+D:\utils>curl https://api.ccu.akamai.com/ccu/v2/queues/default -k -H "Content-Type:application/json" -d '{"type":"cpcode", "objects":["144241","144242"]}' -u jason.lemonier@gtnexus.com:Cache.Crazy.789 
+<html><head><title>401 Unauthorized</title></head><body><p>401 Unauthorized</p><p>You are not authorized to access that resource</p></body></html>
+D:\utils>curl https://api.ccu.akamai.com/ccu/v2/errors/unauthorized-cpcode -k -u jason.lemonier@gtnexus.com:Cache.Crazy.789 
+<html><head><title>unauthorized-cpcode</title></head><body>Permission to purge a cpcode was denied.<p>The detail element of the response may contain additional information.</p></body></html>

@@ -1,0 +1,1 @@
+My standard text.  Encoding is US-ASCII.

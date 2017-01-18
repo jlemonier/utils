@@ -1,0 +1,1 @@
+select top 10 mssg_doc_id, state from tt_mssg_doc order by mssg_doc_id desc

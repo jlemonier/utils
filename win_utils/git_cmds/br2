@@ -1,0 +1,1 @@
+git branch -a $1 $2 $3 |grep -e "remotes/central" -e "feature/gtnx/agile"

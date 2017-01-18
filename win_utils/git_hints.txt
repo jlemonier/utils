@@ -1,0 +1,10 @@
+# Various GIT hints / cheat sheet
+
+# "brinfo" => Show git branches and what they track
+git br -lvv |grep -v -e zold -e nxiong
+
+# "br2" => All agile/alpha/release/ branches
+git branch -a |grep -e agile -e release -e alpha |grep -v -e nxiong -e GTN- -e _playground
+
+# What is about to be pushed from release/14.5.0 
+git diff central/release/14.5.0

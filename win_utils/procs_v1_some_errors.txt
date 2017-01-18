@@ -1,0 +1,190 @@
+Running DeleteCleanup01.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+Running DeleteDoset01.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+Running DeleteDoset02.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+Running DeleteDoset03.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+Running DeleteDosetMaster.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+Running GetNewSeqVal.sql on qadb1b  JitterBit_dev now to confirm ...
+Msg 2714, Level 16, State 3, Server QADB1B, Procedure GetNewSeqVal, Line 2
+There is already an object named 'GetNewSeqVal' in the database.
+------------------------
+------------------------
+------------------------
+Running inserttransrecords.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+Running loadfiletemp.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+Running mrdtl_cleanup.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+Running NegUpdateASN1.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+Running NegUpdateASN2.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+Running NegUpdateASNmaster.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+Running NegUpdatePO1.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+Running NegUpdatePO2.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+Running NegUpdatePO3.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+Running NegUpdatePO4.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+Running NegUpdatePOmaster.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+Running NegUpdateSO1.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+Running NegUpdateSO2.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+Running NegUpdateSO3.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+Running NegUpdateSOmaster.sql on qadb1b  JitterBit_dev now to confirm ...
+Msg 2714, Level 16, State 3, Server QADB1B, Procedure NegUpdateSOmaster, Line 1
+There is already an object named 'NegUpdateSOmaster' in the database.
+------------------------
+------------------------
+------------------------
+Running NegUpPO.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+Running pocal_cleanup.sql on qadb1b  JitterBit_dev now to confirm ...
+Msg 137, Level 15, State 2, Server QADB1B, Procedure pocal_cleanup, Line 4
+Must declare the scalar variable "@upsid".
+------------------------
+------------------------
+------------------------
+Running POdeact01.sql on qadb1b  JitterBit_dev now to confirm ...
+Msg 2714, Level 16, State 3, Server QADB1B, Procedure POdeact01, Line 1
+There is already an object named 'POdeact01' in the database.
+------------------------
+------------------------
+------------------------
+Running POdeact02.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+Running POdeact03.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+Running POdeactMaster.sql on qadb1b  JitterBit_dev now to confirm ...
+Msg 137, Level 15, State 2, Server QADB1B, Line 3
+Must declare the scalar variable "@log_id".
+Msg 2714, Level 16, State 3, Server QADB1B, Procedure POdeactMaster, Line 2
+There is already an object named 'POdeactMaster' in the database.
+------------------------
+------------------------
+------------------------
+Running resendrecords.sql on qadb1b  JitterBit_dev now to confirm ...
+Msg 213, Level 16, State 1, Server QADB1B, Procedure resendrecords, Line 40
+Column name or number of supplied values does not match table definition.
+------------------------
+------------------------
+------------------------
+Running updatetransrecords.sql on qadb1b  JitterBit_dev now to confirm ...
+Msg 137, Level 15, State 2, Server QADB1B, Procedure updatetransrecords, Line 6
+Must declare the scalar variable "@upsid".
+------------------------
+------------------------
+------------------------
+Running updateupsfields.sql on qadb1b  JitterBit_dev now to confirm ...
+Msg 2714, Level 16, State 3, Server QADB1B, Procedure updateupsfields, Line 2
+There is already an object named 'updateupsfields' in the database.
+------------------------
+------------------------
+------------------------
+Running updateupsrecords.sql on qadb1b  JitterBit_dev now to confirm ...
+Msg 213, Level 16, State 1, Server QADB1B, Procedure updateupsrecords, Line 78
+Column name or number of supplied values does not match table definition.
+------------------------
+------------------------
+------------------------
+Running ups_id_ret.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+Running ups_id_ret_new.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+Running ups_multi_id_ret.sql on qadb1b  JitterBit_dev now to confirm ...
+------------------------
+------------------------
+------------------------
+DeleteCleanup01.sql
+DeleteDoset01.sql
+DeleteDoset02.sql
+DeleteDoset03.sql
+DeleteDosetMaster.sql
+GetNewSeqVal.sql
+inserttransrecords.sql
+loadfiletemp.sql
+mrdtl_cleanup.sql
+NegUpdateASN1.sql
+NegUpdateASN2.sql
+NegUpdateASNmaster.sql
+NegUpdatePO1.sql
+NegUpdatePO2.sql
+NegUpdatePO3.sql
+NegUpdatePO4.sql
+NegUpdatePOmaster.sql
+NegUpdateSO1.sql
+NegUpdateSO2.sql
+NegUpdateSO3.sql
+NegUpdateSOmaster.sql
+NegUpPO.sql
+pocal_cleanup.sql
+POdeact01.sql
+POdeact02.sql
+POdeact03.sql
+POdeactMaster.sql
+resendrecords.sql
+updatetransrecords.sql
+updateupsfields.sql
+updateupsrecords.sql
+ups_id_ret.sql
+ups_id_ret_new.sql
+ups_multi_id_ret.sql

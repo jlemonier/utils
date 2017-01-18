@@ -1,0 +1,136 @@
+Running DeleteCleanup01.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running DeleteDoset01.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running DeleteDoset02.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running DeleteDoset03.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running DeleteDosetMaster.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running GetNewSeqVal.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running inserttransrecords.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running loadfiletemp.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running mrdtl_cleanup.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running NegUpdateASN1.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running NegUpdateASN2.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running NegUpdateASNmaster.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running NegUpdatePO1.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running NegUpdatePO2.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running NegUpdatePO3.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running NegUpdatePO4.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running NegUpdatePOmaster.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running NegUpdateSO1.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running NegUpdateSO2.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running NegUpdateSO3.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running NegUpdateSOmaster.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running NegUpPO.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running pocal_cleanup.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running POdeact01.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running POdeact02.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running POdeact03.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running POdeactMaster.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running resendrecords.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running updatetransrecords.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running updateupsfields.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running updateupsrecords.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running ups_id_ret.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running ups_id_ret_new.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+Running ups_multi_id_ret.sql on qadb1b  JitterBit_dev now to confirm ...
+ECHO is on.
+ECHO is on.
+DeleteCleanup01.sql
+DeleteDoset01.sql
+DeleteDoset02.sql
+DeleteDoset03.sql
+DeleteDosetMaster.sql
+GetNewSeqVal.sql
+inserttransrecords.sql
+loadfiletemp.sql
+mrdtl_cleanup.sql
+NegUpdateASN1.sql
+NegUpdateASN2.sql
+NegUpdateASNmaster.sql
+NegUpdatePO1.sql
+NegUpdatePO2.sql
+NegUpdatePO3.sql
+NegUpdatePO4.sql
+NegUpdatePOmaster.sql
+NegUpdateSO1.sql
+NegUpdateSO2.sql
+NegUpdateSO3.sql
+NegUpdateSOmaster.sql
+NegUpPO.sql
+pocal_cleanup.sql
+POdeact01.sql
+POdeact02.sql
+POdeact03.sql
+POdeactMaster.sql
+resendrecords.sql
+updatetransrecords.sql
+updateupsfields.sql
+updateupsrecords.sql
+ups_id_ret.sql
+ups_id_ret_new.sql
+ups_multi_id_ret.sql

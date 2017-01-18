@@ -1,0 +1,4 @@
+dir=.
+dir=. type(dir)=<type 'str'>
+in findClass .
+in findJar .

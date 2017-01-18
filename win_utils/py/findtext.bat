@@ -1,0 +1,1 @@
+python c:\apps\utils\py\findtext.py %1 %2

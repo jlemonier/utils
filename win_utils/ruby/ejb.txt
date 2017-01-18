@@ -1,0 +1,513 @@
+# c:/src/agile_13_7/release/com/tradiant/admin/doefuelprice/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.admin.doefuelprice.ejb.interfaces.DoEFuelPriceMgr=com.tradiant.admin.doefuelprice.ejb.server.DoEFuelPriceMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/admin/objectattribconfig/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.admin.objectattribconfig.ejb.interfaces.ObjAttribConfMgr=com.tradiant.admin.objectattribconfig.ejb.server.ObjAttribConfMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/admin/orgconfig/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.admin.orgconfig.ejb.interfaces.OrgConfigMgr=com.tradiant.admin.orgconfig.ejb.server.OrgConfigMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/billing/ejb/billinglistener/ejb-jar.xml - Parsed OK
+tradiant.billing.BillingListener=com.tradiant.billing.ejb.billinglistener.BillingListener 
+
+# c:/src/agile_13_7/release/com/tradiant/billing/ejb/billingmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.billing.ejb.billingmgr.interfaces.BillingMgr=com.tradiant.billing.ejb.billingmgr.server.BillingMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/billofladingfact/ejb/factmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.billofladingfact.ejb.factmgr.interfaces.BillOfLadingFactMgr=com.tradiant.billofladingfact.ejb.factmgr.server.BillOfLadingFactMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/customoutbound/ejb/monitor/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.customoutbound.ejb.monitor.interfaces.QuartzMonitor=com.tradiant.customoutbound.ejb.monitor.server.QuartzMonitorBean 
+
+# c:/src/agile_13_7/release/com/tradiant/database/ejb-jar.xml - Parsed OK
+com.tradiant.database.DAL=com.tradiant.database.DALBean 
+
+# c:/src/agile_13_7/release/com/tradiant/dataquality/ejb/dqmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.dataquality.ejb.dqmgr.interfaces.DQMgr=com.tradiant.dataquality.ejb.dqmgr.server.DQMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/doc/ejb/ladingmgr/ejb-jar.xml - Parsed OK
+com.tradiant.doc.ejb.ladingmgr.LadingMgr=com.tradiant.doc.ejb.ladingmgr.LadingMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/doc/ejb/reportmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.doc.ejb.reportmgr.interfaces.ReportMgr=com.tradiant.doc.ejb.reportmgr.server.ReportMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/doc/ejb/shipmentlistener/ejb-jar.xml - Parsed OK
+tradiant.doc.ShipmentEventListener=com.tradiant.doc.ejb.shipmentlistener.ShipmentEventListener 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/addrbookmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.addrbookmgr.interfaces.AddrbookMgr=com.tradiant.ejb.addrbookmgr.server.AddrbookMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/alert/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.alert.interfaces.Alert=com.tradiant.ejb.alert.server.AlertBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/auditmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.auditmgr.interfaces.AuditMgr=com.tradiant.ejb.auditmgr.server.AuditMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/contractmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.contractmgr.interfaces.ContractMgr=com.tradiant.ejb.contractmgr.server.ContractMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/csrreportmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.csrreportmgr.interfaces.CsrReportMgr=com.tradiant.ejb.csrreportmgr.server.CsrReportMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/cuccmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.cuccmgr.interfaces.CUCCMgr=com.tradiant.ejb.cuccmgr.server.CUCCMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/divisionmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.divisionmgr.interfaces.DivisionManager=com.tradiant.ejb.divisionmgr.server.DivisionManagerBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/downtimemgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.downtimemgr.interfaces.DownTimeMgr=com.tradiant.ejb.downtimemgr.server.DownTimeMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/dynsurchargemgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.dynsurchargemgr.interfaces.DynSurchargeMgr=com.tradiant.ejb.dynsurchargemgr.server.DynSurchargeMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/email/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.email.interfaces.Email=com.tradiant.ejb.email.server.EmailBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/equipmentformulamgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.equipmentformulamgr.interfaces.EquipmentFormulaMgr=com.tradiant.ejb.equipmentformulamgr.server.EquipmentFormulaMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/layoutmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.layoutmgr.interfaces.LayoutMgr=com.tradiant.ejb.layoutmgr.server.LayoutMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/nego/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.nego.interfaces.Nego=com.tradiant.ejb.nego.server.NegoBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/negomgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.negomgr.interfaces.NegoMgr=com.tradiant.ejb.negomgr.server.NegoMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/notificationrulemgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.notificationrulemgr.interfaces.NotificationRuleMgr=com.tradiant.ejb.notificationrulemgr.server.NotificationRuleMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/offermgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.offermgr.interfaces.OfferMgr=com.tradiant.ejb.offermgr.server.OfferMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/optimizationmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.optimizationmgr.interfaces.OptimizationMgr=com.tradiant.ejb.optimizationmgr.server.OptimizationMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/OptiModelMgr/wl/deployment/ejb-jar.xml - Parsed OK
+Optimization.ModelManagerListener=com.tradiant.ejb.OptiModelMgr.OptimizationModelListener 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/orgmanager/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.orgmanager.interfaces.OrgManager=com.tradiant.ejb.orgmanager.server.OrgManagerBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/querymgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.querymgr.interfaces.QueryMgr=com.tradiant.ejb.querymgr.server.QueryMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/reprocesslistener/wl/deployment/ejb-jar.xml - Parsed OK
+tradiant.ReprocessCuccListener=com.tradiant.ejb.reprocesslistener.ReprocessCuccListener 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/rolemanager/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.rolemanager.interfaces.RoleManager=com.tradiant.ejb.rolemanager.server.RoleManagerBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/sm/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.sm.interfaces.SysMgr=com.tradiant.ejb.sm.server.SysMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/spnmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.spnmgr.interfaces.SPNMgr=com.tradiant.ejb.spnmgr.server.SPNMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/surchargemgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.surchargemgr.interfaces.SurchargeMgr=com.tradiant.ejb.surchargemgr.server.SurchargeMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/tariffmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.tariffmgr.interfaces.TariffMgr=com.tradiant.ejb.tariffmgr.server.TariffMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/userlite/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.userlite.interfaces.UserLite=com.tradiant.ejb.userlite.server.UserLiteBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/usermanager/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.usermanager.interfaces.UserManager=com.tradiant.ejb.usermanager.server.UserManagerBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ejb/viewmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ejb.viewmgr.interfaces.ViewMgr=com.tradiant.ejb.viewmgr.server.ViewMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/finance/bankaccount/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.finance.bankaccount.ejb.interfaces.BankAccountMgr=com.tradiant.finance.bankaccount.ejb.server.BankAccountMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/finance/financesettings/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.finance.financesettings.ejb.interfaces.FinanceSettingsMgr=com.tradiant.finance.financesettings.ejb.server.FinanceSettingsMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/finance/invoice/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.finance.invoice.ejb.interfaces.InvoiceMgr=com.tradiant.finance.invoice.ejb.server.InvoiceMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/finance/paymentview/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.finance.paymentview.ejb.interfaces.BankPaymentMgr=com.tradiant.finance.paymentview.ejb.server.BankPaymentMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/gdc/ejb/datamgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.gdc.ejb.datamgr.interfaces.GDCDataMgr=com.tradiant.gdc.ejb.datamgr.server.GDCDataMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/gdc/ejb/docmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.gdc.ejb.docmgr.interfaces.DocumentMgr=com.tradiant.gdc.ejb.docmgr.server.DocumentMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/inland/core/bandpricing/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.inland.core.bandpricing.ejb.interfaces.BandPricingMgr=com.tradiant.inland.core.bandpricing.ejb.server.BandPricingMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/inland/core/templatedefinition/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.inland.core.templatedefinition.ejb.interfaces.InlandTemplateDefinitionMgr=com.tradiant.inland.core.templatedefinition.ejb.server.InlandTemplateDefinitionMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/inland/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.inland.ejb.interfaces.InlandAdminMgr=com.tradiant.inland.ejb.server.InlandAdminMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/inland/procurement/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.inland.procurement.ejb.interfaces.InlandProcShipperMgr=com.tradiant.inland.procurement.ejb.server.InlandProcShipperMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/acknowledgements/inboundxml/wl/ejb-jar.xml - Parsed OK
+com.tradiant.integration.acknowledgements.inboundxml.wl.InboundXmlAckListener=com.tradiant.integration.acknowledgements.inboundxml.wl.InboundXmlAckListener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/acknowledgements/outboundXML/wl/ejb-jar.xml - Parsed OK
+com.tradiant.integration.acknowledgements.outboundXML.wl.OutboundXmlAckListener=com.tradiant.integration.acknowledgements.outboundXML.wl.OutboundXmlAckListener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/booking/inbound301/wl/ejb-jar.xml - Parsed OK
+com.tradiant.integration.booking.inbound301.wl.BkgInboundXml301Listener=com.tradiant.integration.booking.inbound301.wl.BkgInboundXml301Listener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/booking/inboundXML/wl/deployment/ejb-jar.xml - Parsed OK
+integration.BookingRequestMDB=com.tradiant.integration.booking.inboundXML.wl.BookingRequestMDB 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/booking/outbound300/wl/deployment/ejb-jar.xml - Parsed OK
+integration.BkgOut300Listener=com.tradiant.integration.booking.outbound300.wl.BkgOut300Listener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/booking/outbound301/wl/deployment/ejb-jar.xml - Parsed OK
+integration.BkgOut301Listener=com.tradiant.integration.booking.outbound301.BkgOut301Listener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/common/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.integration.common.ejb.interfaces.IntConnectMgr=com.tradiant.integration.common.ejb.server.IntConnectMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/dashboard/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.integration.dashboard.ejb.interfaces.IDMgr=com.tradiant.integration.dashboard.ejb.server.IDMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/doc/inbound110/wl/ejb-jar.xml - Parsed OK
+com.tradiant.integration.doc.inbound110.wl.InboundXml110Listener=com.tradiant.integration.doc.inbound110.wl.InboundXml110Listener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/doc/inbound304/wl/ejb-jar.xml - Parsed OK
+com.tradiant.integration.doc.inbound304.wl.InboundXml304Listener=com.tradiant.integration.doc.inbound304.wl.InboundXml304Listener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/doc/inbound310/wl/ejb-jar.xml - Parsed OK
+com.tradiant.integration.doc.inbound310.wl.InboundXml310Listener=com.tradiant.integration.doc.inbound310.wl.InboundXml310Listener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/doc/outbound110/wl/ejb-jar.xml - Parsed OK
+com.tradiant.integration.doc.outbound110.wl.OutboundXml110Listener=com.tradiant.integration.doc.outbound110.wl.OutboundXml110Listener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/doc/outbound304/wl/ejb-jar.xml - Parsed OK
+com.tradiant.integration.doc.outbound304.wl.OutboundXml304Listener=com.tradiant.integration.doc.outbound304.wl.OutboundXml304Listener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/doc/outbound310/wl/ejb-jar.xml - Parsed OK
+com.tradiant.integration.doc.outbound310.wl.OutboundXml310Listener=com.tradiant.integration.doc.outbound310.wl.OutboundXml310Listener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/gdc/inbound7501/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.integration.gdc.inbound7501.ejb.server.Inbound7501Listener=com.tradiant.integration.gdc.inbound7501.ejb.server.Inbound7501Listener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/isf/inbound/deployment/ejb-jar.xml - Parsed OK
+integration.InboundISFListener=com.tradiant.integration.isf.inbound.InboundISFListener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/isf/inboundresp/deployment/ejb-jar.xml - Parsed OK
+integration.InboundISFResponseListener=com.tradiant.integration.isf.inboundresp.InboundISFResponseListener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/isf/inboundsa/deployment/ejb-jar.xml - Parsed OK
+integration.InboundISFSAListener=com.tradiant.integration.isf.inboundsa.InboundISFSAListener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/isf/outbound/deployment/ejb-jar.xml - Parsed OK
+integration.ISFOutListener=com.tradiant.integration.isf.outbound.OutboundISFListener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/orders/inboundasn/ejb/ejb-jar.xml - Parsed OK
+com.tradiant.integration.orders.inboundasn.ejb.InboundAsnXmlListener=com.tradiant.integration.orders.inboundasn.ejb.InboundAsnXmlListener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/orders/inboundbookingstatus/wl/ejb-jar.xml - Parsed OK
+com.tradiant.integration.orders.inboundbookingstatus.wl.InboundXmlBookingStatusListener=com.tradiant.integration.orders.inboundbookingstatus.wl.InboundXmlBookingStatusListener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/orders/inboundFCR/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.integration.orders.inboundFCR.ejb.server.InboundFCRListener=com.tradiant.integration.orders.inboundFCR.ejb.server.InboundFCRListener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/orders/inboundgenericinvoice/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.integration.orders.inboundgenericinvoice.ejb.server.InboundGenericInvoiceListener=com.tradiant.integration.orders.inboundgenericinvoice.ejb.server.InboundGenericInvoiceListener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/orders/inboundloadplan/ejb/ejb-jar.xml - Parsed OK
+com.tradiant.integration.orders.inboundloadplan.ejb.InboundLoadPlanXmlListener=com.tradiant.integration.orders.inboundloadplan.ejb.InboundLoadPlanXmlListener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/orders/inboundmilestone/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.integration.orders.inboundmilestone.ejb.server.InboundMilestoneListener=com.tradiant.integration.orders.inboundmilestone.ejb.server.InboundMilestoneListener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/orders/inboundorderchangerequest/ejb/ejb-jar.xml - Parsed OK
+com.tradiant.integration.orders.inboundorderchangerequest.ejb.InboundOrderChangeAckMsgListener=com.tradiant.integration.orders.inboundorderchangerequest.ejb.InboundOrderChangeAckMsgListener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/orders/inboundPartialUpdateOrder/ejb/ejb-jar.xml - Parsed OK
+com.tradiant.integration.orders.inboundPartialUpdateOrder.ejb.InboundXmlPartialUpdateOrderListener=com.tradiant.integration.orders.inboundPartialUpdateOrder.ejb.InboundXmlPartialUpdateOrderListener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/orders/inboundPO/wl/ejb-jar.xml - Parsed OK
+com.tradiant.integration.orders.inboundPO.wl.InboundXmlPoListener=com.tradiant.integration.orders.inboundPO.wl.InboundXmlPoListener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/orders/inboundReceipt/wl/ejb-jar.xml - Parsed OK
+com.tradiant.integration.orders.inboundReceipt.wl.InboundXmlReceiptListener=com.tradiant.integration.orders.inboundReceipt.wl.InboundXmlReceiptListener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/orders/inboundSO/wl/ejb-jar.xml - Parsed OK
+com.tradiant.integration.orders.inboundSO.wl.InboundXmlSoListener=com.tradiant.integration.orders.inboundSO.wl.InboundXmlSoListener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/orders/outboundASN/server/ejb-jar.xml - Parsed OK
+com.tradiant.integration.orders.outboundASN.OutboundASNMsgListener=com.tradiant.integration.orders.outboundASN.OutboundASNMsgListener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/orders/outboundmilestone/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.integration.orders.outboundmilestone.ejb.interfaces.OutboundMilestoneMgr=com.tradiant.integration.orders.outboundmilestone.ejb.server.OutboundMilestoneMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/orders/packunit/inbound/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.integration.orders.packunit.inbound.ejb.server.InboundPackUnitListener=com.tradiant.integration.orders.packunit.inbound.ejb.server.InboundPackUnitListener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/orders/shipmentplan/inbound/ejb-jar.xml - Parsed OK
+com.tradiant.integration.orders.shipmentplan.inbound.InboundXmlShipmentPlanListener=com.tradiant.integration.orders.shipmentplan.inbound.InboundXmlShipmentPlanListener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/sailsched/wl/ejb-jar.xml - Parsed OK
+com.tradiant.integration.sailsched.wl.SailSchedListener=com.tradiant.integration.sailsched.wl.SailSchedListener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/shipment/shipmentxml/wl/ejb-jar.xml - Parsed OK
+com.tradiant.integration.shipment.shipmentxml.wl.ShipmentXmlListener=com.tradiant.integration.shipment.shipmentxml.wl.ShipmentXmlListener 
+
+# c:/src/agile_13_7/release/com/tradiant/integration/shipmentStatus/wl/ejb-jar.xml - Parsed OK
+com.tradiant.integration.shipmentStatus.wl.OutboundXml315Listener=com.tradiant.integration.shipmentStatus.wl.OutboundXml315Listener 
+
+# c:/src/agile_13_7/release/com/tradiant/isf/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.isf.ejb.interfaces.ISFMgr=com.tradiant.isf.ejb.server.ISFMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/orders/dashboard/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.orders.dashboard.ejb.interfaces.SerializedObjectMgr=com.tradiant.orders.dashboard.ejb.server.SerializedObjectMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/orders/ejb/alertmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.orders.ejb.alertmgr.interfaces.AlertMgr=com.tradiant.orders.ejb.alertmgr.server.AlertMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/orders/ejb/analyticsmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.orders.ejb.analyticsmgr.interfaces.AnalyticsMgr=com.tradiant.orders.ejb.analyticsmgr.server.AnalyticsMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/orders/ejb/atriskmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.orders.ejb.atriskmgr.interfaces.AtRiskMgr=com.tradiant.orders.ejb.atriskmgr.server.AtRiskMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/orders/ejb/cmmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.orders.ejb.cmmgr.interfaces.CMMgr=com.tradiant.orders.ejb.cmmgr.server.CMMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/orders/ejb/cmmgrquelistener/deployment/ejb-jar.xml - Parsed OK
+tradiant.orders.CmMgrQueListener.1=com.tradiant.orders.ejb.cmmgrquelistener.server.CMMgrQueListener 
+
+# c:/src/agile_13_7/release/com/tradiant/orders/ejb/cmpersistencelistener/deployment/ejb-jar.xml - Parsed OK
+tradiant.orders.CmPersistenceListener=com.tradiant.orders.ejb.cmpersistencelistener.server.CmPersistenceListener 
+
+# c:/src/agile_13_7/release/com/tradiant/orders/ejb/datamgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.orders.ejb.datamgr.interfaces.DataMgr=com.tradiant.orders.ejb.datamgr.server.DataMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/orders/ejb/fcrmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.orders.ejb.fcrmgr.interfaces.FCRMgr=com.tradiant.orders.ejb.fcrmgr.server.FCRMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/orders/ejb/intpublishmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.orders.ejb.intpublishmgr.interfaces.IntPublishMgr=com.tradiant.orders.ejb.intpublishmgr.server.IntPublishMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/orders/ejb/manualexceptionmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.orders.ejb.manualexceptionmgr.interfaces.ManualExceptionMgr=com.tradiant.orders.ejb.manualexceptionmgr.server.ManualExceptionMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/orders/ejb/milestonemgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.orders.ejb.milestonemgr.interfaces.MilestoneMgr=com.tradiant.orders.ejb.milestonemgr.server.MilestoneMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/orders/ejb/msmappinglistener/deployment/ejb-jar.xml - Parsed OK
+tradiant.orders.MilestoneMappingListener=com.tradiant.orders.ejb.msmappinglistener.server.MilestoneMappingListener 
+
+# c:/src/agile_13_7/release/com/tradiant/orders/ejb/msmodelmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.orders.ejb.msmodelmgr.interfaces.MilestoneModelMgr=com.tradiant.orders.ejb.msmodelmgr.server.MilestoneModelMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/orders/ejb/orderchangeackmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.orders.ejb.orderchangeackmgr.interfaces.OrderChangeAckMgr=com.tradiant.orders.ejb.orderchangeackmgr.server.OrderChangeAckMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/orders/ejb/ordermgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.orders.ejb.ordermgr.interfaces.OrderMgr=com.tradiant.orders.ejb.ordermgr.server.OrderMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/orders/ejb/qtyexceptionmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.orders.ejb.qtyexceptionmgr.interfaces.QuantityExceptionMgr=com.tradiant.orders.ejb.qtyexceptionmgr.server.QuantityExceptionMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/orders/ejb/qtyexmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.orders.ejb.qtyexmgr.interfaces.QtyExceptionMgr=com.tradiant.orders.ejb.qtyexmgr.server.QtyExceptionMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/orders/ejb/receiptmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.orders.ejb.receiptmgr.interfaces.ReceiptMgr=com.tradiant.orders.ejb.receiptmgr.server.ReceiptMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/orders/ejb/vendordocmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.orders.ejb.vendordocmgr.interfaces.VendorDocMgr=com.tradiant.orders.ejb.vendordocmgr.server.VendorDocMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/orders/orderchangerequest/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.orders.orderchangerequest.ejb.interfaces.OrderChangeRequestMgr=com.tradiant.orders.orderchangerequest.ejb.server.OrderChangeRequestMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/orders/packunit/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.orders.packunit.ejb.interfaces.PackUnitMgr=com.tradiant.orders.packunit.ejb.server.PackUnitMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/planning/ejb/bidanalysismgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.planning.ejb.bidanalysismgr.interfaces.BidAnalysisMgr=com.tradiant.planning.ejb.bidanalysismgr.server.BidAnalysisMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/planning/ejb/incumbentdatalistener/ejb-jar.xml - Parsed OK
+tradiant.planning.IncumbentDataListener=com.tradiant.planning.ejb.incumbentdatalistener.IncumbentDataListener 
+
+# c:/src/agile_13_7/release/com/tradiant/planning/ejb/planninglistener/ejb-jar.xml - Parsed OK
+tradiant.planning.PlanningListener=com.tradiant.planning.ejb.planninglistener.PlanningListener 
+
+# c:/src/agile_13_7/release/com/tradiant/planning/ejb/planningreporter/ejb-jar.xml - Parsed OK
+com.tradiant.planning.ejb.planningreporter.PlanningReporter=com.tradiant.planning.ejb.planningreporter.PlanningReporterBean 
+
+# c:/src/agile_13_7/release/com/tradiant/planning/ejb/targetpricelistener/ejb-jar.xml - Parsed OK
+tradiant.planning.TargetPriceListener=com.tradiant.planning.ejb.targetpricelistener.TargetPriceListener 
+
+# c:/src/agile_13_7/release/com/tradiant/planning/incumbentdata/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.planning.incumbentdata.ejb.interfaces.IncumbentDataMgr=com.tradiant.planning.incumbentdata.ejb.server.IncumbentDataMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/rateoverview/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.rateoverview.ejb.interfaces.RateOverviewMgr=com.tradiant.rateoverview.ejb.server.RateOverviewMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/rateretrieval/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.rateretrieval.ejb.interfaces.RateRetrievalMultiModalMgr=com.tradiant.rateretrieval.ejb.server.RateRetrievalMultiModalMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/rules/ejb/ruleengine/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.rules.ejb.ruleengine.interfaces.RuleEngine=com.tradiant.rules.ejb.ruleengine.server.RuleEngineBean 
+
+# c:/src/agile_13_7/release/com/tradiant/rules/ejb/rulemgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.rules.ejb.rulemgr.interfaces.RuleMgr=com.tradiant.rules.ejb.rulemgr.server.RuleMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/sail/ejb/saildatamgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.sail.ejb.saildatamgr.interfaces.SailDataMgr=com.tradiant.sail.ejb.saildatamgr.server.SailDataMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/sail/ejb/sailmergemgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.sail.ejb.sailmergemgr.interfaces.SailMergeMgr=com.tradiant.sail.ejb.sailmergemgr.server.SailMergeMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/sail/ejb/sailsearchmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.sail.ejb.sailsearchmgr.interfaces.SailSearchMgr=com.tradiant.sail.ejb.sailsearchmgr.server.SailSearchMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/admindatamgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.admindatamgr.interfaces.AdminDataMgr=com.tradiant.shared.ejb.admindatamgr.server.AdminDataMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/appconfigmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.appconfigmgr.interfaces.AppConfigMgr=com.tradiant.shared.ejb.appconfigmgr.server.AppConfigMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/carriercontactmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.carriercontactmgr.interfaces.CarrierContactMgr=com.tradiant.shared.ejb.carriercontactmgr.server.CarrierContactMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/commoditymgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.commoditymgr.interfaces.CommodityMgr=com.tradiant.shared.ejb.commoditymgr.server.CommodityMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/containertypemgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.containertypemgr.interfaces.ContainerTypeMgr=com.tradiant.shared.ejb.containertypemgr.server.ContainerTypeMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/customelementmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.customelementmgr.interfaces.CustomElementMgr=com.tradiant.shared.ejb.customelementmgr.server.CustomElementMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/divcodemappingmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.divcodemappingmgr.interfaces.DivCodeMappingMgr=com.tradiant.shared.ejb.divcodemappingmgr.server.DivCodeMappingMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/emailwfmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.emailwfmgr.interfaces.EmailWFMgr=com.tradiant.shared.ejb.emailwfmgr.server.EmailWFMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/emptymgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.emptymgr.interfaces.EmptyMgr=com.tradiant.shared.ejb.emptymgr.server.EmptyMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/externallinkmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.externallinkmgr.interfaces.ExternalLinkMgr=com.tradiant.shared.ejb.externallinkmgr.server.ExternalLinkMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/filetransfermgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.filetransfermgr.interfaces.FileTransferMgr=com.tradiant.shared.ejb.filetransfermgr.server.FileTransferMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/hazmatmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.hazmatmgr.interfaces.HazmatMgr=com.tradiant.shared.ejb.hazmatmgr.server.HazmatMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/intauditemailmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.intauditemailmgr.interfaces.IntauditEmailMgr=com.tradiant.shared.ejb.intauditemailmgr.server.IntauditEmailMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/labelmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.labelmgr.interfaces.LabelMgr=com.tradiant.shared.ejb.labelmgr.server.LabelMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/locationapimgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.locationapimgr.interfaces.LocationAPIMgr=com.tradiant.shared.ejb.locationapimgr.server.LocationAPIMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/locationmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.locationmgr.interfaces.LocationMgr=com.tradiant.shared.ejb.locationmgr.server.LocationMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/locgroupmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.locgroupmgr.interfaces.LocGroupMgr=com.tradiant.shared.ejb.locgroupmgr.server.LocGroupMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/lostpasswordmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.lostpasswordmgr.interfaces.LostPasswordMgr=com.tradiant.shared.ejb.lostpasswordmgr.server.LostPasswordMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/makercheckermgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.makercheckermgr.interfaces.MakerCheckerMgr=com.tradiant.shared.ejb.makercheckermgr.server.MakerCheckerMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/monitoringmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.monitoringmgr.interfaces.MonitoringMgr=com.tradiant.shared.ejb.monitoringmgr.server.MonitoringMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/notesmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.notesmgr.interfaces.NotesMgr=com.tradiant.shared.ejb.notesmgr.server.NotesMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/plsmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.plsmgr.interfaces.PLSMgr=com.tradiant.shared.ejb.plsmgr.server.PLSMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/propertydbmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.propertydbmgr.interfaces.PropertyDBMgr=com.tradiant.shared.ejb.propertydbmgr.server.PropertyDBMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/shipmenttransittimemgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.shipmenttransittimemgr.interfaces.ShipmentTransitTimeMgr=com.tradiant.shared.ejb.shipmenttransittimemgr.server.ShipmentTransitTimeMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/souifieldmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.souifieldmgr.interfaces.SOUIFieldMgr=com.tradiant.shared.ejb.souifieldmgr.server.SOUIFieldMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/tradelanemgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.tradelanemgr.interfaces.TradeLaneMgr=com.tradiant.shared.ejb.tradelanemgr.server.TradeLaneMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/ejb/uifieldmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.ejb.uifieldmgr.interfaces.UIFieldMgr=com.tradiant.shared.ejb.uifieldmgr.server.UIFieldMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/memo/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.memo.ejb.interfaces.MemoMgr=com.tradiant.shared.memo.ejb.server.MemoMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/portal/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.portal.ejb.interfaces.PortalMgr=com.tradiant.shared.portal.ejb.server.PortalMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shared/userinterface/uiconfig/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shared.userinterface.uiconfig.ejb.interfaces.UIConfigMgr=com.tradiant.shared.userinterface.uiconfig.ejb.server.UIConfigMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shipment/ejb/batchoptimize/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shipment.ejb.batchoptimize.interfaces.BOMgr=com.tradiant.shipment.ejb.batchoptimize.server.BOMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shipment/ejb/batchupdate/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shipment.ejb.batchupdate.interfaces.BUMgr=com.tradiant.shipment.ejb.batchupdate.server.BUMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shipment/ejb/spadministrationmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shipment.ejb.spadministrationmgr.interfaces.SPAdministrationMgr=com.tradiant.shipment.ejb.spadministrationmgr.server.SPAdministrationMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shipment/ejb/spfactmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shipment.ejb.spfactmgr.interfaces.SpAllocTablesFactMgr=com.tradiant.shipment.ejb.spfactmgr.server.SpAllocTablesFactMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shipment/ejb/spmgr/ejb-jar.xml - Parsed OK
+com.tradiant.shipment.ejb.spmgr.SPMgr=com.tradiant.shipment.ejb.spmgr.SPMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/shipment/ejb/spsearch/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.shipment.ejb.spsearch.interfaces.SPSearchMgr=com.tradiant.shipment.ejb.spsearch.server.SPSearchMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/so/pl/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.so.pl.ejb.interfaces.PackingListMgr=com.tradiant.so.pl.ejb.server.PackingListMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/so/sm/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.so.sm.ejb.interfaces.ShippingManifestMgr=com.tradiant.so.sm.ejb.server.ShippingManifestMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/taskscheduler/ejb/monitor/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.taskscheduler.ejb.monitor.interfaces.SchedulerMonitor=com.tradiant.taskscheduler.ejb.monitor.server.SchedulerMonitorBean 
+
+# c:/src/agile_13_7/release/com/tradiant/toolsandnetwork/intfilesearch/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.toolsandnetwork.intfilesearch.ejb.interfaces.FileInspectorMgr=com.tradiant.toolsandnetwork.intfilesearch.ejb.server.FileInspectorMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/toolsandnetwork/ti/ejb/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.toolsandnetwork.ti.ejb.interfaces.TIMgr=com.tradiant.toolsandnetwork.ti.ejb.server.TIMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/ubs/ejb/bookingmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.ubs.ejb.bookingmgr.interfaces.BookingMgr=com.tradiant.ubs.ejb.bookingmgr.server.BookingMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/vismgr/ejb/containereventmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.vismgr.ejb.containereventmgr.interfaces.ContainerEventMgr=com.tradiant.vismgr.ejb.containereventmgr.server.ContainerEventMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/vismgr/ejb/notifytemp/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.vismgr.ejb.notifytemp.interfaces.NotifyTemplate=com.tradiant.vismgr.ejb.notifytemp.server.NotifyTempBean 
+
+# c:/src/agile_13_7/release/com/tradiant/vismgr/ejb/notifytempmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.vismgr.ejb.notifytempmgr.interfaces.NotifyTemplateMgr=com.tradiant.vismgr.ejb.notifytempmgr.server.NotifyTemplateMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/vismgr/ejb/reportmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.vismgr.ejb.reportmgr.interfaces.ReportMgr=com.tradiant.vismgr.ejb.reportmgr.server.ReportMgrBean 
+
+# c:/src/agile_13_7/release/com/tradiant/vismgr/ejb/shipmentmgr/deployment/ejb-jar.xml - Parsed OK
+com.tradiant.vismgr.ejb.shipmentmgr.interfaces.ShipmentMgr=com.tradiant.vismgr.ejb.shipmentmgr.server.ShipmentMgrBean 
+

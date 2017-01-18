@@ -1,0 +1,43 @@
+ARGV: [] 
+C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4
+C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed
+scrub_and_copy C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4 ... 
+scrub_and_copy C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4/.classpath ... 
+Trying to make directory for: C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed/.classpath => C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed
+Scrubbing file: C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4/.classpath
+ 	to	C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed/.classpath 
+scrub_and_copy C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4/.classpath_TEMPLATE ... 
+Trying to make directory for: C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed/.classpath_TEMPLATE => C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed
+Scrubbing file: C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4/.classpath_TEMPLATE
+ 	to	C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed/.classpath_TEMPLATE 
+scrub_and_copy C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4/.gwt ... 
+scrub_and_copy C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4/.project ... 
+Trying to make directory for: C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed/.project => C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed
+Scrubbing file: C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4/.project
+ 	to	C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed/.project 
+scrub_and_copy C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4/.settings ... 
+scrub_and_copy C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4/.settings/.jsdtscope ... 
+Trying to make directory for: C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed/.settings/.jsdtscope => C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed/.settings
+Scrubbing file: C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4/.settings/.jsdtscope
+ 	to	C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed/.settings/.jsdtscope 
+scrub_and_copy C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4/.settings/org.eclipse.jdt.core.prefs ... 
+Trying to make directory for: C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed/.settings/org.eclipse.jdt.core.prefs => C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed/.settings
+Scrubbing file: C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4/.settings/org.eclipse.jdt.core.prefs
+ 	to	C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed/.settings/org.eclipse.jdt.core.prefs 
+scrub_and_copy C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4/.settings/org.eclipse.wst.common.component ... 
+Trying to make directory for: C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed/.settings/org.eclipse.wst.common.component => C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed/.settings
+Scrubbing file: C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4/.settings/org.eclipse.wst.common.component
+ 	to	C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed/.settings/org.eclipse.wst.common.component 
+scrub_and_copy C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4/.settings/org.eclipse.wst.common.project.facet.core.xml ... 
+Trying to make directory for: C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed/.settings/org.eclipse.wst.common.project.facet.core.xml => C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed/.settings
+Scrubbing file: C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4/.settings/org.eclipse.wst.common.project.facet.core.xml
+ 	to	C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed/.settings/org.eclipse.wst.common.project.facet.core.xml 
+scrub_and_copy C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4/.settings/org.eclipse.wst.jsdt.ui.superType.container ... 
+Trying to make directory for: C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed/.settings/org.eclipse.wst.jsdt.ui.superType.container => C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed/.settings
+Scrubbing file: C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4/.settings/org.eclipse.wst.jsdt.ui.superType.container
+ 	to	C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed/.settings/org.eclipse.wst.jsdt.ui.superType.container 
+scrub_and_copy C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4/.settings/org.eclipse.wst.jsdt.ui.superType.name ... 
+Trying to make directory for: C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed/.settings/org.eclipse.wst.jsdt.ui.superType.name => C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed/.settings
+Scrubbing file: C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4/.settings/org.eclipse.wst.jsdt.ui.superType.name
+ 	to	C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4_scrubbed/.settings/org.eclipse.wst.jsdt.ui.superType.name 
+scrub_and_copy C:/gtsrc/workspaces/march_2014_checkout/tradiant_agile_14_4/.svn ... 

@@ -1,0 +1,262 @@
+tt_om_po parents: 0 children: 0 
+                                        ********************************************************************************
+                                        *** Starting Printing Tbl: tt_om_po Recursive=True ***
+                                        ********************************************************************************
+                                 tt_commontexttype (static)               <= tt_commontext                             with commontexttype_id (static) 
+                                 tt_org (static)                          <= tt_commontext                             with org_id (static) 
+                                 tt_user (static)                         <= tt_commontext                             on user_id <= moduser_id  (static) 
+                                     tt_commontext (static)                   <= tt_om_po                                  with commontext_id (static) 
+                                 tt_lang (static)                         <= tt_country                                on lang_id <= deflang_id  (static) 
+                                 tt_timezone (static)                     <= tt_country                                with timezone_id (static) 
+                                     tt_country (static)                      <= tt_om_po                                  on country_id <= po_terms_country_id  (static) 
+                                 tt_org (static)                          <= tt_om_popriority                          with org_id (static) 
+                                     tt_om_popriority (static)                <= tt_om_po                                  with om_popriority_id (static) 
+                                 tt_org (static)                          <= tt_org                                    on org_id <= reforg_id  (static) 
+                                 tt_orgflexfldval (static)                <= tt_org                                    on orgflexfldval_id <= orgflexfldval_id1  (static) 
+                                 tt_orgflexfldval (static)                <= tt_org                                    on orgflexfldval_id <= orgflexfldval_id2  (static) 
+                                 tt_orgflexfldval (static)                <= tt_org                                    on orgflexfldval_id <= orgflexfldval_id3  (static) 
+                                 tt_orgflexfldval (static)                <= tt_org                                    on orgflexfldval_id <= orgflexfldval_id4  (static) 
+                                 tt_orgflexfldval (static)                <= tt_org                                    on orgflexfldval_id <= orgflexfldval_id5  (static) 
+                                 tt_orgflexfldval (static)                <= tt_org                                    on orgflexfldval_id <= orgflexfldval_id6  (static) 
+                                 tt_orgflexfldval (static)                <= tt_org                                    on orgflexfldval_id <= orgflexfldval_id7  (static) 
+                                 tt_orgflexfldval (static)                <= tt_org                                    on orgflexfldval_id <= orgflexfldval_id8  (static) 
+                                 tt_user (static)                         <= tt_org                                    on user_id <= analyst_user_id  (static) 
+                                 tt_user (static)                         <= tt_org                                    on user_id <= salesmgr_user_id  (static) 
+                                 tt_user (static)                         <= tt_org                                    on user_id <= salesrep_user_id  (static) 
+                                 tz_mode (static)                         <= tt_org                                    on mode_id <= mode  (static) 
+                                     tt_org (static)                          <= tt_om_po                                  on org_id <= create_org_id  (static) 
+                                 tt_org (static)                          <= tt_org                                    on org_id <= reforg_id  (static) 
+                                 tt_orgflexfldval (static)                <= tt_org                                    on orgflexfldval_id <= orgflexfldval_id1  (static) 
+                                 tt_orgflexfldval (static)                <= tt_org                                    on orgflexfldval_id <= orgflexfldval_id2  (static) 
+                                 tt_orgflexfldval (static)                <= tt_org                                    on orgflexfldval_id <= orgflexfldval_id3  (static) 
+                                 tt_orgflexfldval (static)                <= tt_org                                    on orgflexfldval_id <= orgflexfldval_id4  (static) 
+                                 tt_orgflexfldval (static)                <= tt_org                                    on orgflexfldval_id <= orgflexfldval_id5  (static) 
+                                 tt_orgflexfldval (static)                <= tt_org                                    on orgflexfldval_id <= orgflexfldval_id6  (static) 
+                                 tt_orgflexfldval (static)                <= tt_org                                    on orgflexfldval_id <= orgflexfldval_id7  (static) 
+                                 tt_orgflexfldval (static)                <= tt_org                                    on orgflexfldval_id <= orgflexfldval_id8  (static) 
+                                 tt_user (static)                         <= tt_org                                    on user_id <= analyst_user_id  (static) 
+                                 tt_user (static)                         <= tt_org                                    on user_id <= salesmgr_user_id  (static) 
+                                 tt_user (static)                         <= tt_org                                    on user_id <= salesrep_user_id  (static) 
+                                 tz_mode (static)                         <= tt_org                                    on mode_id <= mode  (static) 
+                                     tt_org (static)                          <= tt_om_po                                  on org_id <= customer_org_id  (static) 
+                                 tt_org (static)                          <= tt_org                                    on org_id <= reforg_id  (static) 
+                                 tt_orgflexfldval (static)                <= tt_org                                    on orgflexfldval_id <= orgflexfldval_id1  (static) 
+                                 tt_orgflexfldval (static)                <= tt_org                                    on orgflexfldval_id <= orgflexfldval_id2  (static) 
+                                 tt_orgflexfldval (static)                <= tt_org                                    on orgflexfldval_id <= orgflexfldval_id3  (static) 
+                                 tt_orgflexfldval (static)                <= tt_org                                    on orgflexfldval_id <= orgflexfldval_id4  (static) 
+                                 tt_orgflexfldval (static)                <= tt_org                                    on orgflexfldval_id <= orgflexfldval_id5  (static) 
+                                 tt_orgflexfldval (static)                <= tt_org                                    on orgflexfldval_id <= orgflexfldval_id6  (static) 
+                                 tt_orgflexfldval (static)                <= tt_org                                    on orgflexfldval_id <= orgflexfldval_id7  (static) 
+                                 tt_orgflexfldval (static)                <= tt_org                                    on orgflexfldval_id <= orgflexfldval_id8  (static) 
+                                 tt_user (static)                         <= tt_org                                    on user_id <= analyst_user_id  (static) 
+                                 tt_user (static)                         <= tt_org                                    on user_id <= salesmgr_user_id  (static) 
+                                 tt_user (static)                         <= tt_org                                    on user_id <= salesrep_user_id  (static) 
+                                 tz_mode (static)                         <= tt_org                                    on mode_id <= mode  (static) 
+                                     tt_org (static)                          <= tt_om_po                                  on org_id <= supplier_org_id  (static) 
+                                 tt_org (static)                          <= tt_orgbuyer                               with org_id (static) 
+                                 tt_orgdiv (static)                       <= tt_orgbuyer                               with orgdiv_id (static) 
+                                     tt_orgbuyer (static)                     <= tt_om_po                                  with orgbuyer_id (static) 
+                                 tt_org (static)                          <= tt_orgdept                                with org_id (static) 
+                                 tt_orgdiv (static)                       <= tt_orgdept                                with orgdiv_id (static) 
+                                     tt_orgdept (static)                      <= tt_om_po                                  on orgdept_id <= customer_orgdept_id  (static) 
+                                 tt_org (static)                          <= tt_orgdiv                                 with org_id (static) 
+                                     tt_orgdiv (static)                       <= tt_om_po                                  on orgdiv_id <= create_orgdiv_id  (static) 
+                                 tt_org (static)                          <= tt_orgdiv                                 with org_id (static) 
+                                     tt_orgdiv (static)                       <= tt_om_po                                  on orgdiv_id <= customer_orgdiv_id  (static) 
+                                 tt_city (static)                         <= tt_orgsupplier                            with city_id (static) 
+                                 tt_country (static)                      <= tt_orgsupplier                            on country_id <= addr_country_id  (static) 
+                                 tt_org (static)                          <= tt_orgsupplier                            with org_id (static) 
+                                 tt_org (static)                          <= tt_orgsupplier                            on org_id <= reforg_id  (static) 
+                                     tt_orgsupplier (static)                  <= tt_om_po                                  with orgsupplier_id (static) 
+                                 tt_loc (static)                          <= tt_user                                   with loc_id (static) 
+                                 tt_org (static)                          <= tt_user                                   with org_id (static) 
+                                     tt_user (static)                         <= tt_om_po                                  on user_id <= create_user_id  (static) 
+                                     tz_om_modeltype (static)                 <= tt_om_po                                  with om_modeltype_id (static) 
+                                     tz_om_orderpaymentmethod (static)        <= tt_om_po                                  with om_orderpaymentmethod_id (static) 
+                                     tz_om_payment (static)                   <= tt_om_po                                  with om_payment_id (static) 
+                                     tz_om_poacceptance_status (static)       <= tt_om_po                                  with om_poacceptance_status_id (static) 
+                                     tz_om_postatus (static)                  <= tt_om_po                                  with om_postatus_id (static) 
+                                     tz_om_shipmentterm (static)              <= tt_om_po                                  with om_shipmentterm_id (static) 
+                                        ********************************************************************************
+                                        *** tt_om_po **  (parents printed above, children below)
+                                        ********************************************************************************
+                                             tt_ocmparty 
+                                               tt_om_po (static)                        <= tt_ocmparty                               with om_po_id (data)
+                                             tt_om_cmdetail 
+                                               tt_om_po (static)                        <= tt_om_cmdetail                            with om_po_id (data)
+                                                 tl_om_cmdetail_packunit_item 
+                                                   tt_om_cmdetail (data)                    <= tl_om_cmdetail_packunit_item              with om_cmdetail_id (static)
+                                                 tl_om_cmdetail_vendordoc_lineitem 
+                                                   tt_om_cmdetail (data)                    <= tl_om_cmdetail_vendordoc_lineitem         with om_cmdetail_id (static)
+                                                 tl_sp_cmdetail 
+                                                   tt_om_cmdetail (data)                    <= tl_sp_cmdetail                            on om_cmdetail_id <= lp_om_cmdetail_id  (static)
+                                                 tt_om_assortment 
+                                                   tt_om_cmdetail (data)                    <= tt_om_assortment                          with om_cmdetail_id (data)
+                                                 tt_om_cmdetail_flagging 
+                                                   tt_om_cmdetail (data)                    <= tt_om_cmdetail_flagging                   on om_cmdetail_id <= cloned_from_id  (static)
+                                                 tt_om_cmdetail_flagging 
+                                                   tt_om_cmdetail (data)                    <= tt_om_cmdetail_flagging                   with om_cmdetail_id (static)
+                                                 tt_om_landedcost_object 
+                                                   tt_om_cmdetail (data)                    <= tt_om_landedcost_object                   with om_cmdetail_id (static)
+                                                 tt_om_mapped_shipmentdata 
+                                                   tt_om_cmdetail (data)                    <= tt_om_mapped_shipmentdata                 with om_cmdetail_id (data)
+                                                 tt_om_obj_update_history 
+                                                   tt_om_cmdetail (data)                    <= tt_om_obj_update_history                  with om_cmdetail_id (data)
+                                                 tt_om_packunit_map 
+                                                   tt_om_cmdetail (data)                    <= tt_om_packunit_map                        with om_cmdetail_id (static)
+                                                 tt_om_poline_shipment 
+                                                   tt_om_cmdetail (data)                    <= tt_om_poline_shipment                     with om_cmdetail_id (data)
+                                                 tt_om_prorated_item_cost 
+                                                   tt_om_cmdetail (data)                    <= tt_om_prorated_item_cost                  with om_cmdetail_id (data)
+                                                 tt_om_sku 
+                                                   tt_om_cmdetail (data)                    <= tt_om_sku                                 with om_cmdetail_id (static)
+                                             tt_om_cmdetail_20070701 
+                                               tt_om_po (static)                        <= tt_om_cmdetail_20070701                   with om_po_id (static)
+                                             tt_om_container 
+                                               tt_om_po (static)                        <= tt_om_container                           with om_po_id (static)
+                                             tt_om_landedcost_object 
+                                               tt_om_po (static)                        <= tt_om_landedcost_object                   with om_po_id (static)
+                                             tt_om_obj_update_history 
+                                               tt_om_po (static)                        <= tt_om_obj_update_history                  with om_po_id (data)
+                                             tt_om_order_paymentterm 
+                                               tt_om_po (static)                        <= tt_om_order_paymentterm                   with om_po_id (static)
+                                             tt_om_ordernotes 
+                                               tt_om_po (static)                        <= tt_om_ordernotes                          with om_po_id (static)
+                                             tt_om_po_ref 
+                                               tt_om_po (static)                        <= tt_om_po_ref                              with om_po_id (static)
+                                             tt_om_poline 
+                                               tt_om_po (static)                        <= tt_om_poline                              with om_po_id (data)
+                                                 tt_om_assortment 
+                                                   tt_om_poline (data)                      <= tt_om_assortment                          with om_poline_id (data)
+                                                 tt_om_cmdetail 
+                                                   tt_om_poline (data)                      <= tt_om_cmdetail                            with om_poline_id (data)
+                                                 tt_om_cmdetail_20070701 
+                                                   tt_om_poline (data)                      <= tt_om_cmdetail_20070701                   with om_poline_id (static)
+                                                 tt_om_fcr_lineitem 
+                                                   tt_om_poline (data)                      <= tt_om_fcr_lineitem                        with om_poline_id (static)
+                                                 tt_om_htsc 
+                                                   tt_om_poline (data)                      <= tt_om_htsc                                with om_poline_id (static)
+                                                 tt_om_item_attrib 
+                                                   tt_om_poline (data)                      <= tt_om_item_attrib                         with om_poline_id (data)
+                                                 tt_om_landedcost_object 
+                                                   tt_om_poline (data)                      <= tt_om_landedcost_object                   with om_poline_id (static)
+                                                 tt_om_mapped_podata 
+                                                   tt_om_poline (data)                      <= tt_om_mapped_podata                       with om_poline_id (static)
+                                                 tt_om_obj_update_history 
+                                                   tt_om_poline (data)                      <= tt_om_obj_update_history                  with om_poline_id (data)
+                                                 tt_om_poline_ref 
+                                                   tt_om_poline (data)                      <= tt_om_poline_ref                          with om_poline_id (static)
+                                                 tt_om_poline_shipment 
+                                                   tt_om_poline (data)                      <= tt_om_poline_shipment                     with om_poline_id (data)
+                                                 tt_om_prorated_item_cost 
+                                                   tt_om_poline (data)                      <= tt_om_prorated_item_cost                  with om_poline_id (data)
+                                                 tt_om_sku 
+                                                   tt_om_poline (data)                      <= tt_om_sku                                 with om_poline_id (static)
+                                                 tt_om_vendordoc_lineitem 
+                                                   tt_om_poline (data)                      <= tt_om_vendordoc_lineitem                  with om_poline_id (static)
+                                             tt_om_poparty 
+                                               tt_om_po (static)                        <= tt_om_poparty                             with om_po_id (data)
+                                                 tt_ocmparty 
+                                                   tt_om_poparty (data)                     <= tt_ocmparty                               with om_poparty_id (data)
+                                                 tt_om_ack_email 
+                                                   tt_om_poparty (data)                     <= tt_om_ack_email                           with om_poparty_id (static)
+                                                 tt_om_vendordoc_factory 
+                                                   tt_om_poparty (data)                     <= tt_om_vendordoc_factory                   with om_poparty_id (static)
+                                                 tt_om_vendordocparty 
+                                                   tt_om_poparty (data)                     <= tt_om_vendordocparty                      with om_poparty_id (static)
+                                                 tt_vmcontainermoveparty 
+                                                   tt_om_poparty (data)                     <= tt_vmcontainermoveparty                   with om_poparty_id (data)
+                                             tt_om_posw 
+                                               tt_om_po (static)                        <= tt_om_posw                                with om_po_id (data)
+                                                 tt_om_cmdetail 
+                                                   tt_om_posw (data)                        <= tt_om_cmdetail                            with om_posw_id (data)
+                                                 tt_om_cmdetail_20070701 
+                                                   tt_om_posw (data)                        <= tt_om_cmdetail_20070701                   with om_posw_id (static)
+                                                 tt_om_poline 
+                                                   tt_om_posw (data)                        <= tt_om_poline                              with om_posw_id (data)
+                                             tt_om_vendordoc_lineitem 
+                                               tt_om_po (static)                        <= tt_om_vendordoc_lineitem                  with om_po_id (static)
+                                                 tl_om_cmdetail_vendordoc_lineitem 
+                                                   tt_om_vendordoc_lineitem (static)        <= tl_om_cmdetail_vendordoc_lineitem         with om_vendordoc_lineitem_id (static)
+                                                 tl_om_vendordoc_lineitem_packunit_item 
+                                                   tt_om_vendordoc_lineitem (static)        <= tl_om_vendordoc_lineitem_packunit_item    with om_vendordoc_lineitem_id (static)
+                                                 tt_om_htsc 
+                                                   tt_om_vendordoc_lineitem (static)        <= tt_om_htsc                                with om_vendordoc_lineitem_id (static)
+                                                 tt_om_invoice_line 
+                                                   tt_om_vendordoc_lineitem (static)        <= tt_om_invoice_line                        with om_vendordoc_lineitem_id (static)
+                                                 tt_om_packunit_map 
+                                                   tt_om_vendordoc_lineitem (static)        <= tt_om_packunit_map                        with om_vendordoc_lineitem_id (static)
+                                                 tt_om_vendordoc_carton 
+                                                   tt_om_vendordoc_lineitem (static)        <= tt_om_vendordoc_carton                    with om_vendordoc_lineitem_id (static)
+                                                 tt_om_vendordoc_claim 
+                                                   tt_om_vendordoc_lineitem (static)        <= tt_om_vendordoc_claim                     with om_vendordoc_lineitem_id (static)
+                                                 tt_om_vendordoc_exception 
+                                                   tt_om_vendordoc_lineitem (static)        <= tt_om_vendordoc_exception                 with om_vendordoc_lineitem_id (static)
+                                                 tt_om_vendordoc_factory 
+                                                   tt_om_vendordoc_lineitem (static)        <= tt_om_vendordoc_factory                   with om_vendordoc_lineitem_id (static)
+                                                 tt_om_vendordoc_packingline 
+                                                   tt_om_vendordoc_lineitem (static)        <= tt_om_vendordoc_packingline               with om_vendordoc_lineitem_id (static)
+                                                 tt_om_vendordoc_sku 
+                                                   tt_om_vendordoc_lineitem (static)        <= tt_om_vendordoc_sku                       with om_vendordoc_lineitem_id (static)
+                                                 tt_om_vendordocparty 
+                                                   tt_om_vendordoc_lineitem (static)        <= tt_om_vendordocparty                      with om_vendordoc_lineitem_id (static)
+                                             tt_vmcontainermoveparty 
+                                               tt_om_po (static)                        <= tt_vmcontainermoveparty                   with om_po_id (data)
+                                        ********************************************************************************
+                                        *** End Printing Tbl: tt_om_po ***
+                                        ********************************************************************************
+                                        ********************************************************************************
+                                        *** Starting Printing Tbl: tt_om_po Recursive=False ***
+                                        ********************************************************************************
+                                     tt_commontext (static)                   <= tt_om_po                                  with commontext_id (static) 
+                                     tt_country (static)                      <= tt_om_po                                  on country_id <= po_terms_country_id  (static) 
+                                     tt_om_popriority (static)                <= tt_om_po                                  with om_popriority_id (static) 
+                                     tt_org (static)                          <= tt_om_po                                  on org_id <= create_org_id  (static) 
+                                     tt_org (static)                          <= tt_om_po                                  on org_id <= customer_org_id  (static) 
+                                     tt_org (static)                          <= tt_om_po                                  on org_id <= supplier_org_id  (static) 
+                                     tt_orgbuyer (static)                     <= tt_om_po                                  with orgbuyer_id (static) 
+                                     tt_orgdept (static)                      <= tt_om_po                                  on orgdept_id <= customer_orgdept_id  (static) 
+                                     tt_orgdiv (static)                       <= tt_om_po                                  on orgdiv_id <= create_orgdiv_id  (static) 
+                                     tt_orgdiv (static)                       <= tt_om_po                                  on orgdiv_id <= customer_orgdiv_id  (static) 
+                                     tt_orgsupplier (static)                  <= tt_om_po                                  with orgsupplier_id (static) 
+                                     tt_user (static)                         <= tt_om_po                                  on user_id <= create_user_id  (static) 
+                                     tz_om_modeltype (static)                 <= tt_om_po                                  with om_modeltype_id (static) 
+                                     tz_om_orderpaymentmethod (static)        <= tt_om_po                                  with om_orderpaymentmethod_id (static) 
+                                     tz_om_payment (static)                   <= tt_om_po                                  with om_payment_id (static) 
+                                     tz_om_poacceptance_status (static)       <= tt_om_po                                  with om_poacceptance_status_id (static) 
+                                     tz_om_postatus (static)                  <= tt_om_po                                  with om_postatus_id (static) 
+                                     tz_om_shipmentterm (static)              <= tt_om_po                                  with om_shipmentterm_id (static) 
+                                        ********************************************************************************
+                                        *** tt_om_po **  (parents printed above, children below)
+                                        ********************************************************************************
+                                             tt_ocmparty 
+                                               tt_om_po (static)                        <= tt_ocmparty                               with om_po_id (data)
+                                             tt_om_cmdetail 
+                                               tt_om_po (static)                        <= tt_om_cmdetail                            with om_po_id (data)
+                                             tt_om_cmdetail_20070701 
+                                               tt_om_po (static)                        <= tt_om_cmdetail_20070701                   with om_po_id (static)
+                                             tt_om_container 
+                                               tt_om_po (static)                        <= tt_om_container                           with om_po_id (static)
+                                             tt_om_landedcost_object 
+                                               tt_om_po (static)                        <= tt_om_landedcost_object                   with om_po_id (static)
+                                             tt_om_obj_update_history 
+                                               tt_om_po (static)                        <= tt_om_obj_update_history                  with om_po_id (data)
+                                             tt_om_order_paymentterm 
+                                               tt_om_po (static)                        <= tt_om_order_paymentterm                   with om_po_id (static)
+                                             tt_om_ordernotes 
+                                               tt_om_po (static)                        <= tt_om_ordernotes                          with om_po_id (static)
+                                             tt_om_po_ref 
+                                               tt_om_po (static)                        <= tt_om_po_ref                              with om_po_id (static)
+                                             tt_om_poline 
+                                               tt_om_po (static)                        <= tt_om_poline                              with om_po_id (data)
+                                             tt_om_poparty 
+                                               tt_om_po (static)                        <= tt_om_poparty                             with om_po_id (data)
+                                             tt_om_posw 
+                                               tt_om_po (static)                        <= tt_om_posw                                with om_po_id (data)
+                                             tt_om_vendordoc_lineitem 
+                                               tt_om_po (static)                        <= tt_om_vendordoc_lineitem                  with om_po_id (static)
+                                             tt_vmcontainermoveparty 
+                                               tt_om_po (static)                        <= tt_vmcontainermoveparty                   with om_po_id (data)
+                                        ********************************************************************************
+                                        *** End Printing Tbl: tt_om_po ***
+                                        ********************************************************************************

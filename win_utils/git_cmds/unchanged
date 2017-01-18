@@ -1,0 +1,9 @@
+# See list of files ever marked as "assume-unchanged"
+# https://help.github.com/articles/ignoring-files
+echo "https://help.github.com/articles/ignoring-files"
+echo "git update-index --assume-unchanged path/to/file.txt"
+echo "git update-index --no-assume-unchanged path/to/file.txt"
+echo
+echo "Listing files 'assumed-unchanged' "
+echo -------------------------------------------
+git ls-files -v |grep "^h"

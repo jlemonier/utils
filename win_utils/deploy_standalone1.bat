@@ -1,0 +1,3 @@
+echo Deploy standalone to qaagiletask ...
+
+xcopy /s /v /f /y C:\gtsrc\workspaces\march_2014_v2\standalone\build\classes\*.* \\qaagiletask1b\transfer
