@@ -1,5 +1,5 @@
 SET AK_USER=jason.lemonier@gtnexus.com
-SET AK_PASS=Cache.Crazy.789
+SET AK_PASS=%AK_PASS%
 
 ECHO AK_USER:%AK_USER%
 ECHO AK_PASS:%AK_PASS%
